@@ -1,0 +1,14 @@
+C:\Users\mathe\Downloads\Repositorios\GeradorSenha\bin\Debug\net8.0\GeradorSenha.exe
+C:\Users\mathe\Downloads\Repositorios\GeradorSenha\bin\Debug\net8.0\GeradorSenha.deps.json
+C:\Users\mathe\Downloads\Repositorios\GeradorSenha\bin\Debug\net8.0\GeradorSenha.runtimeconfig.json
+C:\Users\mathe\Downloads\Repositorios\GeradorSenha\bin\Debug\net8.0\GeradorSenha.dll
+C:\Users\mathe\Downloads\Repositorios\GeradorSenha\bin\Debug\net8.0\GeradorSenha.pdb
+C:\Users\mathe\Downloads\Repositorios\GeradorSenha\obj\Debug\net8.0\GeradorSenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Downloads\Repositorios\GeradorSenha\obj\Debug\net8.0\GeradorSenha.AssemblyInfoInputs.cache
+C:\Users\mathe\Downloads\Repositorios\GeradorSenha\obj\Debug\net8.0\GeradorSenha.AssemblyInfo.cs
+C:\Users\mathe\Downloads\Repositorios\GeradorSenha\obj\Debug\net8.0\GeradorSenha.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Downloads\Repositorios\GeradorSenha\obj\Debug\net8.0\GeradorSenha.dll
+C:\Users\mathe\Downloads\Repositorios\GeradorSenha\obj\Debug\net8.0\refint\GeradorSenha.dll
+C:\Users\mathe\Downloads\Repositorios\GeradorSenha\obj\Debug\net8.0\GeradorSenha.pdb
+C:\Users\mathe\Downloads\Repositorios\GeradorSenha\obj\Debug\net8.0\GeradorSenha.genruntimeconfig.cache
+C:\Users\mathe\Downloads\Repositorios\GeradorSenha\obj\Debug\net8.0\ref\GeradorSenha.dll
